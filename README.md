@@ -1,2 +1,2 @@
 # tech-commerce
-Proyecto de icommerce para tienda de tecnologia
+Proyecto de ecommerce para tienda de tecnologia
